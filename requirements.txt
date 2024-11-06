@@ -1,0 +1,5 @@
+echo "streamlit
+yfinance
+pandas
+scikit-learn
+matplotlib" > requirements.txt
