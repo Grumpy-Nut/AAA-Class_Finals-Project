@@ -1,8 +1,3 @@
-pip install yfinance
-pip install pandas
-pip install scikit-learn
-pip install matplotlib
-
 import streamlit as st
 import yfinance as yf
 import pandas as pd
