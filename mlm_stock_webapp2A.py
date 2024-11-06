@@ -1,4 +1,3 @@
-pip install streamlit
 pip install yfinance
 pip install pandas
 pip install scikit-learn
