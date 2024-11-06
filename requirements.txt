@@ -1,5 +1,5 @@
-echo "streamlit
-yfinance
-pandas
-scikit-learn
-matplotlib" > requirements.txt
+streamlit==1.25.0
+yfinance==0.2.30
+pandas==1.5.3
+scikit-learn==1.2.2
+matplotlib==3.6.2
